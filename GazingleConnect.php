@@ -23,7 +23,6 @@ trait GazingleConnect {
         ],
     ];
 
-
     /*
      * Determines if server is exist
      */
